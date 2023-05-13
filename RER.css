@@ -1,0 +1,9 @@
+.body{
+    margin: 0;
+}
+.h2h2{
+    background-color: rgb(230, 68, 68);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
